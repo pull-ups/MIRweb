@@ -2,8 +2,8 @@
 title: "MIR Lab"
 email: your-email@domain.com
 description: "Multimodal Laboratory, Yonsei University"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://pull-ups.github.io/MIRweb" # the base hostname & protocol for your site
+baseurl: "/MIRweb" # the subpath of your site, e.g. /blog/
+url: "https://pull-ups.github.io/" # the base hostname & protocol for your site
 favicon: /images/favicon.png
 
 include: ['_people', '_projects', '_teachings', '_gallery']
