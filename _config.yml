@@ -3,7 +3,7 @@ title: "MIR Lab"
 email: your-email@domain.com
 description: "Multimodal Laboratory, Yonsei University"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://pull-ups.github.io/MIRweb/" # the base hostname & protocol for your site
+url: "https://pull-ups.github.io/MIRweb" # the base hostname & protocol for your site
 favicon: /images/favicon.png
 
 include: ['_people', '_projects', '_teachings', '_gallery']
@@ -24,7 +24,7 @@ address:
   - line: Room 319, 302 Building
   - line: "TEL: +82-02-880-7289"
 
-github_username:  SNUVL
+github_username:  pull-ups
 
 # Build settings
 markdown: kramdown
